@@ -1,7 +1,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'flattenum'
-  s.version     = '1.0.0.alpha.1'
+  s.version     = '1.0.0'
   s.date        = '2015-03-16'
   s.summary     = "Generate a 'flattened' Enumerator of objects"
   s.description = "Generate a 'flattened' Enumerator of objects"
