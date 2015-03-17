@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/flattenum.svg)](http://badge.fury.io/rb/flattenum)
+
 # Flattenum #
 
 Generate a 'flattened' Enumerator of objects.
